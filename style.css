@@ -1,0 +1,46 @@
+body {
+    background: #ccc;
+}
+
+#titulo, .sub_titulo, .post_titulo{
+    color: blue;
+} 
+.post_titulo{
+    font-size: 20px;
+    font-style: italic;
+}
+/*footer{
+    position: relative;
+    bottom: auto;
+    width: 100;
+    background-color: black;
+}*/
+
+.post{
+    background:#fff;
+    padding: 15px;
+    border: 3px solid #000;
+    margin: 10px; ;
+}
+.post {
+    background-color: green;
+    background-color: #008800;
+    background: #0088800;
+}
+.post{
+    border: 3px solid blue;
+    border-top: 2px dotted black;
+    border-right: 4px dashed pink;
+
+}
+
+.post_titulo{
+    font-size: 20px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 20px;
+}
+.post_img{
+    margin-bottom: 20px;
+}
+
